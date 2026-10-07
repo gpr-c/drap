@@ -1,5 +1,7 @@
 # DRAP: Digital Rights Access Point
 
+See the Operational Transparency Notice demo at [transparencylab.ca/notice](https://transparencylab.ca/notice), and try out the Digital Rights Access Point at [transparencylab.ca/notice#rights](https://transparencylab.ca/notice#rights).
+
 A Digital Rights Access Point is the single public place where a person exercises their rights over what a controller holds about them, using the receipt number they were given. No account is needed and no identification is asked for. Every request gets a rights request receipt of its own.
 
 **Live demonstration:** [transparencylab.ca/notice#rights](https://transparencylab.ca/notice#rights), the rights section of the Transparency Lab Operational Transparency Notice
