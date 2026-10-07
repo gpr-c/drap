@@ -2,7 +2,7 @@
 
 A Digital Rights Access Point is the single public place where a person exercises their rights over what a controller holds about them, using the receipt number they were given. No account is needed and no identification is asked for. Every request gets a rights request receipt of its own.
 
-**Live demonstration:** [transparencylab.ca/notice#rights](https://transparencylab.ca/notice#rights)
+**Live demonstration:** [transparencylab.ca/notice#rights](https://transparencylab.ca/notice#rights), the rights section of the Transparency Lab Operational Transparency Notice
 
 **Specification:** [DRAP v1](DRAP-v1.md)
 
